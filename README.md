@@ -10,7 +10,7 @@
 
 I'm based in Mumbai, India
 
-⚛️ Some technologies that I love to working with includes Java, MySQL & Spring Boot.
+- Some technologies that I love to working with includes Java, MySQL & Spring Boot.
 
 😃 My interest includes Cybersecurity & Technology related things.
 
