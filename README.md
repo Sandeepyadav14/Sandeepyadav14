@@ -16,7 +16,8 @@ I'm based in Mumbai, India
 
 📧 Email - sandyadav1414@gmail.com
 
-💼 Portfolio - [sandyyadav14.github.io](https://sandyyadav14.github.io)
+💼 Portfolio - [Sandyyadav14.github.io](https://Sandyyadav14.github.io)
+<!-- https://github.com/Sandeepyadav14/Sandeepyadav14.github.io -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
