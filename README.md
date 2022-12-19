@@ -8,13 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepyadav14&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepyadav14" /> </p>
 
-- 🌱 I’m currently learning **Java and SQL**
+I'm based in Mumbai, India
 
-- 💬 Ask me about **JavaScript HTML and CSS**
+⚛️ Some technologies that I love to working with includes Java, MySQL & Spring Boot.
 
-- 👨‍💻 All of my projects are available at https://sandeepyadav14.github.io/
+😃 My interest includes Cybersecurity & Technology related things.
 
-- 📫 How to reach me **sandyadav1414@gmail.com**
+📧 Email - sandyadav1414@gmail.com
+
+💼 Portfolio - [sandyyadav14.github.io](https://sandyyadav14.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
