@@ -1,7 +1,7 @@
 <img align="" width="1000" height="400" src="https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png" alt="">
 <h1 align="center">Hi 👋, I'm Sandeep Yadav</h1>
 
-<h3 align="center">A passionate Java Back-End Developer</h3>
+<h3 align="center">I'm a passionate Java Backend  developer. I do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepyadav14" alt="sandeepyadav14" /></a> </p>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
